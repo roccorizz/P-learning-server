@@ -13,7 +13,8 @@ router.use(function (req, res, next) {
     next();
 });
 app.get('/', (req, res) => {
-    res.send('Learning Platform server side!')
+    res.send('Plearning Platform server side!')
+
 })
 
 app.get('/course-categories', (req, res) => {
@@ -44,5 +45,5 @@ app.get('/category/:id', (req, res) => {
     res.send(category);
 })
 app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
+    console.log(`Demo app listening on port ${port}`)
 })
