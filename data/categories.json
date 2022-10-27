@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Web Development",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/cab7f07dd411e8991ff71ead974a6c/Slide1.png"
+    },
+    {
+        "id": "2",
+        "name": "Graphics Design",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1d/5c8ca09f9b11e58b2bcd64bf4ee4c5/00.SPEC_1200-x-1200_logo.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Digital Marketing",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/55/3d79d0624d4c2ea0f3deb1e39e0593/DMI-Logo_1200x1200.png"
+    },
+    {
+        "id": "4",
+        "name": "Computer Science",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/14/b2d530f1ad11e7ab380fc0c6c817a8/Search-Thumbnail.jpg"
+    },
+    {
+        "id": "5",
+        "name": "English",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/85/25cdfb95114467b047ce901ee5b3c7/ESL_CourseLogo.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Computer Network",
+        "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/07/1d85e07ec211e78ea8bdfc9d4b2d48/redes-informaticas.png"
+    },
+    {
+        "id": "7",
+        "name": "All",
+        "img": "https://news.workforce.com/wp-content/uploads/sites/2/2018/12/AI-is-coming-%E2%80%94-and-HR-is-not-prepared.jpg"
+    }
+]

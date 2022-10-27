@@ -1,0 +1,260 @@
+[
+    {
+        "_id": "47f3c7ca-fd0a-4063-8f98-8ee0fcdeadce",
+        "category_id": "1",
+        "title": "Introduction to Web Development",
+        "course_hours": "140",
+        "price": "$99",
+        "instructor": "Sha Neoyaj Alam",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png",
+        "description": "In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)",
+            "Familiarity with coding (for HTML/ CSS etc.)"
+        ],
+        "course_module": [
+            "Introduction to HTML5",
+            "Introduction to CSS3",
+            "Coding the Static Restaurant Site",
+            "Introduction to Javascript",
+            "Using Javascript to Build Web Applications"
+        ]
+    },
+    {
+        "_id": "3a848f0c-dc38-44a1-b3ca-cdcf9a3de07c",
+        "category_id": "1",
+        "title": "Advanced Web Development",
+        "course_hours": "126",
+        "instructor": "Jogesh K. Muppala",
+        "price": "$100",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/47/5c5eb0de59424db95f1a75e67310b5/CAD2-Intro-to-Cloud-Dev-w-HTML--CSS--and-JavaScript.jpg",
+        "description": "Want to take the first steps to become a Cloud Application Developer? This course will lead you through the languages and tools you will need to develop your own Cloud Apps.Beginning with an explanation of how internet servers and clients work together to deliver applications to users, this course then takes you through the context for application development in the Cloud, introducing front-end, back-end, and full-stack development.You’ll then focus on the languages you need for front-end development, working with HTML, CSS, and JavaScript.Finally, you will discover tools that help you to store your projects and keep track of changes made to project files, such as Git and GitHub.",
+        "requirements": [
+            "Javascript basic skill",
+            "Basic knowledge of English (reading/writing/speaking)",
+            "Familiarity with coding (HTML5/CSS3/jQuery/Bootstrap)"
+        ],
+        "course_module": [
+            "Introduction to Programming for the Cloud",
+            "HTML5 and CSS Overview",
+            "HTML5 Elements",
+            "JavaScript Programming for Web Applications",
+            "Final Project"
+        ]
+    },
+    {
+        "_id": "3ed73b0e-515f-490a-87c2-86e0f543a35d",
+        "category_id": "2",
+        "title": "Graphic Design",
+        "course_hours": "84",
+        "price": "$39",
+        "instructor": "Michael Worthington",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/dc/1d37b0e47f11e5a403f7dee24cfcd7/01.FUND_1200-x-1200_logo.jpg",
+        "description": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio.",
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)"
+        ],
+        "course_module": [
+            "Fundamentals of Graphic Design",
+            "Introduction to Typography",
+            "Introduction to Imagemaking",
+            "Brand New Brand"
+        ]
+    },
+    {
+        "_id": "d5a8961e-b146-45e7-a175-98db8defb741",
+        "category_id": "2",
+        "title": "Motion Graphics",
+        "course_hours": "90",
+        "instructor": "Takeo Igarashi",
+        "price": "$69",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/bd/fb88d0e9bc11e5abe1133ac5dcedb7/InteractiveComputerGraphics.png",
+        "description": "Computer graphics can be a powerful tool for supporting visual problem solving, and interactivity plays a central role in harnessing the users' creativity. This course will introduce various interactive tools developed in computer graphics research field with their design rationales and algorithms. Examples include enhancements to graphical user interfaces, authoring tools for 2D drawings and 3D animations, and interactive computer-aided design systems. Rich live demonstrations and course assignments will give you insights and skills to design and implement such tools for your own problems.",
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)"
+        ],
+        "course_module": [
+            "Graphical User Interfaces",
+            "2D Drawings and Animations",
+            "3D Geometric Modeling",
+            "Deformation and Animation",
+            "Fabrication"
+        ]
+    },
+    {
+        "_id": "aa2b6608-e04b-48e3-8f21-738487dc09f4",
+        "category_id": "3",
+        "title": "Digital Marketing",
+        "course_hours": "78",
+        "instructor": "Google Career Certificates",
+        "price": "$99",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a9/8f52253a404302875e0ffea2fc87dc/0_Moses.png",
+        "description": "This Digital Marketing Training Program provides a detailed understanding of Digital Marketing concepts, strategies, and implementation, including planning a website, website promotion, email and Search Engine Optimization (SEO) campaigns, and integrating digital marketing with traditional marketing.",
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)",
+            "Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+        ],
+        "course_module": [
+            "Foundations of Digital Marketing and E-commerce",
+            "Attract and Engage Customers with Digital Marketing",
+            "From Likes to Leads: Interact with Customers Online",
+            "Think Outside the Inbox: Email Marketing",
+            "Assess for Success: Marketing Analytics and Measurement"
+        ]
+    },
+    {
+        "_id": "c9098683-1408-4ed3-9443-dc44db772f28",
+        "category_id": "3",
+        "title": "Advanced SEO & Amazon Affiliate Marketing",
+        "course_hours": "72",
+        "instructor": "Eric Enge",
+        "price": "$86",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b6/d13140b31b11e58da87fc14b41cdef/Course-5--460493185.jpg",
+        "description": "Discover the content marketing and social media ecosystems and how these interconnected channels drive search results to a website. Leverage content marketing and social media as part of your SEO strategy, and how to use influence marketing to establish a website’s authority.",
+        "requirements": [
+            "Basic knowledge of PCs, MS Windows, internet and online proficiency",
+            "Basic knowledge of English (reading/writing/speaking)",
+            "Familiarity with coding (for HTML/ CSS etc.)[NOT MANDATORY]"
+        ],
+        "course_module": [
+            "Introduction to Advanced Content and Social Tactics to Optimize SEO",
+            "Social Media Marketing",
+            "​Important SEO Glossary",
+            "Influence Marketing",
+            "Creating World Class Content"
+        ]
+    },
+    {
+        "_id": "d3845332-db80-40f5-8865-948858acac06",
+        "category_id": "4",
+        "title": "Master the Theory Behind Programming",
+        "course_hours": "72",
+        "instructor": "Lionel Martellini",
+        "price": "$56",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/0c/b7e28e09a845e782ff204d1721aac3/Advanced.jpg",
+        "description": "Understand the Fundamental Theories of Algorithm Analysis.Be able to Compare Various Algorithms.Understand When to use Different Data Structures and Algorithms.Understand the Fundamentals of Computer Science theory",
+        "requirements": [
+            "A Willingness to Learn New Topics!",
+            "No Prior Experience or Knowledge is Needed!"
+        ],
+        "course_module": [
+            "Style & Factors",
+            "Robust estimates for the covariance matrix",
+            "Robust estimates for expected returns",
+            "Portfolio Optimization in Practice",
+            "Sorting Algorithms"
+        ]
+    },
+    {
+        "_id": "31612a46-a00e-4911-819a-49ae192b7dc6",
+        "category_id": "4",
+        "title": "Computers & Programming for Beginners",
+        "course_hours": "82",
+        "instructor": "Google Career Certificates",
+        "price": "$87",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/10/94e64625eb4b41b05e66ed0e5bab30/Xavier-MI-Thompson-119.jpg",
+        "description": "This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud.",
+        "requirements": [
+            "Access to a computer might be beneficial but is not needed",
+            "Interest in Computer Science and Programming"
+        ],
+        "course_module": [
+            "Basic Programming",
+            "Crash Course on Python",
+            "Introduction to Git and GitHub",
+            "Troubleshooting and Debugging Techniques",
+            "Configuration Management and the Cloud"
+        ]
+    },
+    {
+        "_id": "a9bf3644-2d6a-4039-ae5c-957445b739a9",
+        "category_id": "5",
+        "title": "English Grammar, English Speaking",
+        "course_hours": "35",
+        "price": "$29",
+        "instructor": "Md Robiul Hasan",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/6e/57b3c034c211e6b0ee8f39a2528cfb/199356_Speak_Eng_Prof_Icon.jpg",
+        "description": "This specialization is for those who want to study English grammar at the beginning level. Through the three courses in this specialization, you will learn the fundamental features of English grammar such as word forms, verb tenses, and question and answer formation so that you can start your English learning journey on the right path.",
+        "requirements": [
+            "Students should be able to read and understand basic English"
+        ],
+        "course_module": [
+            "Word Forms and Simple Present Tense",
+            "Questions, Present Progressive and Future Tenses",
+            "Simple Past Tense",
+            "Simple Present Tense",
+            "Verb Conjugation"
+        ]
+    },
+    {
+        "_id": "8018c601-ed09-4040-aab3-5e629c10dbd8",
+        "category_id": "5",
+        "title": "Master English Grammar - Advanced Level",
+        "course_hours": "55",
+        "instructor": "Brian McManus",
+        "price": "$32",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a5/aba340003311e697f635222db49f31/thumbnail-image.jpg",
+        "description": " By the end of the course, your knowledge of English grammar will be deep enough to take on advanced exams, to watch US and UK TV, and to speak in a more complex way. Though accessible to intermediate students, the course delves into the details on many themes, for I have a passion for advanced grammar. I do not speak to my students slowly, as though they were pre-intermediate learners, so if that's the kind of course you are looking for, this one is not for you. Nonetheless, I do respond quickly to inquisitive students, so please join the fun if you are ready!",
+        "requirements": [
+            "An intermediate level of English is required",
+            "A passionate commitment to grammar is desired"
+        ],
+        "course_module": [
+            "Entering the Job Market",
+            "TWriting a Cover Letter",
+            "Networking",
+            "The Future Tense in all Aspects",
+            "Reported Speech",
+            "Active and Passive forms",
+            "Modal Verbs",
+            "Conditionals",
+            "Interviewing For a Job"
+        ]
+    },
+    {
+        "_id": "6e046579-8ef7-4b9e-99a4-e863447a5148",
+        "category_id": "6",
+        "title": "Networking Fundamentals: CCNA",
+        "course_hours": "105",
+        "instructor": " Mohammed Al M.",
+        "price": "$76",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/77/eb1c1289854e3898d48c8866c3a6db/CN.jpg",
+        "description": " Welcome to the Complete Network Fundamentals Course! In this course, you will learn the technologies that keep the world as you know today connected and running. We cover both the fundamentals of networking as well as the topics in the new Cisco CCNA 200-301 exam.Networks are all around us and you are using one right now to access this course.",
+        "requirements": [
+            "There are no specific prerequisites as the course covers all the topics in detail.",
+            "Basic understanding of computers (connect to the Internet)"
+        ],
+        "course_module": [
+            "Manage Cisco devices configuration.",
+            "Configure IP addresses, virtual interfaces, and DHCP servers.",
+            "Verify end-to-end network connectivity.",
+            "Showcase this hands-on experience in an interview"
+        ]
+    },
+    {
+        "_id": "b8739a87-f552-4249-8512-aac4a5f15a68",
+        "category_id": "6",
+        "title": "Networking Fundamentals",
+        "course_hours": "85",
+        "instructor": "Google Cloud",
+        "price": "$20",
+        "image_url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/29/26d46d9f4d49c3b84af85cb4984c34/Logo-Image_GC-Projects.png",
+        "description": " A computer network comprises two or more computers that are connected—either by cables (wired) or WiFi (wireless)—with the purpose of transmitting, exchanging, or sharing data and resources. You build a computer network using hardware (e.g., routers, switches, access points, and cables) and software (e.g., operating systems or business applications).Geographic location often defines a computer network. For example, a LAN (local area network) connects computers in a defined physical space, like an office building, whereas a WAN (wide area network) can connect computers across continents. The internet is the largest example of a WAN, connecting billions of computers worldwide.",
+        "requirements": [
+            "Basic Computer and IT Skills (For Students)",
+            "CompTIA Network+ or CCNA at least is recommended (For Instructors)",
+            "Experience in teaching Computer Networking or desire to teach this topic (For Instructors)"
+        ],
+        "course_module": [
+            "Explore the default VPC network",
+            "Create an auto mode network with firewall rules",
+            "​WANs",
+            "Create VM instances using Compute Engine and explore the connectivity for VM instances",
+            "Routing"
+        ]
+    }
+]
